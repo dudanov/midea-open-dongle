@@ -1,0 +1,1 @@
+# midea-open-dongle
