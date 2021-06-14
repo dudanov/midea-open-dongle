@@ -1,0 +1,13 @@
+Comment,Designator,Footprint,LCSC
+"22uF","C1,C2","Capacitor_Tantalum_SMD:CP_EIA-3216-18_Kemet-A","C129272"
+"1nF","C3","Capacitor_SMD:C_0603_1608Metric","C1588"
+"KT-0603RG","D1","project_components:KT-0603RG","C24477"
+"AC connector","J1","Connector_USB:USB_A_CNCTech_1001-011-01101_Horizontal",""
+"2N7002","Q1,Q2,Q3","Package_TO_SOT_SMD:SOT-23","C8545"
+"2.2K","R1","Resistor_SMD:R_0603_1608Metric","C4190"
+"10K","RN1,RN2","Resistor_SMD:R_Array_Concave_4x0603","C29718"
+"FLASH","SW1","project_components:TS-1088","C720477"
+"RESET","SW2","project_components:TS-1088","C720477"
+"IR_TSOP","TP1","project_components:IROUT",""
+"AMS1117-3.3","U1","Package_TO_SOT_SMD:SOT-223-3_TabPin2","C6186"
+"ESP-12F","U2","project_components:ESP-12E",""
