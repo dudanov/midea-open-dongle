@@ -51,3 +51,5 @@ The pictures below show an example for a `TSOP1738` IR receiver.
 *Yes, you can write me to my [Telegram](https://t.me/dudanov) or [e-mail](mailto:sergey.dudanov@gmail.com).*
 
 ![2](images/sticks.jpg)
+
+If this project was useful to you, you can [buy me](https://paypal.me/dudan0v) a Cup of coffee :)
