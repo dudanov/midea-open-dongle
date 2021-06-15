@@ -42,6 +42,10 @@ The pictures below show an example for a `TSOP1738` IR receiver.
 
 *None 100% answer to the question. But there is a high probability of support if your air conditioner has a USB connector, a regular place for a stick, UART is used.*
 
+> What firmware would you recommend?
+
+*Initially, the stick was developed for [ESPHome](https://esphome.io) and [Home Assistant](https://www.home-assistant.io), but it is possible to write your own firmware for your tasks and needs if you have the appropriate skills.*
+
 > Is it possible to purchase a ready-made stick?
 
 *Yes, you can write me to my [Telegram](https://t.me/dudanov) or [e-mail](mailto:sergey.dudanov@gmail.com).*
