@@ -1,5 +1,7 @@
 # midea-open-dongle
 
+# This project is no longer developing. Please use the [iot-uni-dongle](https://github.com/dudanov/iot-uni-dongle) project.
+
 An open project for a stick for air conditioners controlled by the Midea UART protocol.
 
 A far from complete list of supported brands:
